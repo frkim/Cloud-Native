@@ -6,13 +6,17 @@ This page lists a lot of resources to start with [Azure Container Apps](https://
 Start here to get an overall preview => [Azure Container Apps + DAPR](https://livesend.microsoft.com/i/Hn75tMaQhfpTqXcJSjOLExTLRfIZc7YHMeBjaLEo4bbjJEsQPs1bcGKnVSKD8m2RSO___nA1hvQ1PLUSSIGNPsR2___qibp27Dh3D08D8KITx7kfmsBuwEK24nmqVz5QUpHPLUSSIGNEl41u6W)
 
 # Azure Container Apps Overview
-**Azure Container Apps**  enables you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include:
 
+![Aca Overview](./media/aca-overview.png)
+
+**Azure Container Apps**  enables you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include:
  - Deploying API endpoints
  - Hosting background processing applications
  - Handling event-driven processing
  - Running microservices
  - Host web Application
+
+![Aca Architecture](./media/aca-architecture.png)
 
 ## Important Readings
  - [Comparing Container Apps with other Azure container options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
@@ -45,6 +49,8 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 ## What is Dapr?
 
 **Dapr** is a portable, event-driven runtime that makes it easy for any developer to build resilient, stateless and stateful applications that run on the cloud and edge and embraces the diversity of languages and developer frameworks. Leveraging the benefits of a sidecar architecture, Dapr helps you tackle the challenges that come with building microservices and keeps your code platform agnostic.
+
+![DAPR High Level](./media/dapr-high-level.png)
 
 [>> Get Started here!](https://docs.dapr.io/getting-started/)
 
