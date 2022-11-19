@@ -43,26 +43,21 @@ This page lists a lot of resources to start with **Azure DevOps** and **GitHub**
 
 ## Videos
 
- - Link#1
- - Link#2
- - Link#3 
+ - [DevOps on Azure](https://www.youtube.com/@AzureDevOps)
+ - [Azure DevOps Tutorial For Beginners](https://www.youtube.com/playlist?list=PLaFzfwmPR7_Ifxq-udm66fhReFeGOe2x_)
+ - [Houssem Dellai - Azure DevOps CI/CD](https://www.youtube.com/playlist?list=PLpbcUe4chE7_J_la3FlruUfAN1ec7H_bR)
+ - [Houssem Dellai - Learn GitHub Actions](https://www.youtube.com/playlist?list=PLpbcUe4chE7-6zbykHL9ASi3zlP5PHROo)
 
 ## Blogs
 
- - Link#1
- - Link#2
- - Link#3 
+ - [Azure DevOps Blog Updates](https://devblogs.microsoft.com/devops/category/community/)
+ - [GitHub Blog](https://github.blog/)
 
 ## eBook
 
- - Link#1
- - Link#2
- - Link#3 
+ - [Empowering developers to build secure software faster with GitHub Advanced Security](https://resources.github.com/security/secure-software-faster-ebook/)
+ - [How static application security testing (SAST) can help you fix bugs at the speed of development?](https://resources.github.com/security/sast/?submitted=true)
+ - [Azure DevOps Explained (published by Packt)](https://github.com/PacktPublishing/Learning-Azure-DevOps---B16392)
 
 
-## Sample Apps
-
- - Link#1
- - Link#2
- - Link#3 
 
