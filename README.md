@@ -1,4 +1,4 @@
-# Get started with Cloud-Native
+# Get started with Microsoft Cloud-Native
 
 Some relevant resources to get started with Microsoft Cloud-Native technologies.
 
