@@ -16,12 +16,14 @@ Common scenarios include:
  - Multi-channel user experiences
  - B2B integration
 
-[APIM Resources Portal from Microsoft Product Group](https://aka.ms/apimlove)
 
 Azure API Management is made up of an API gateway, a management plane, and a developer portal. These components are Azure-hosted and fully managed by default. 
 
 ![APIM Components](./media/api-management-components.png)
 
+>
+> [APIM Resources Portal from Microsoft Product Group](https://aka.ms/apimlove)
+>
 
 ## Tutorials / Workshops
 
