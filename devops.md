@@ -4,6 +4,14 @@ This page lists a lot of resources to start with **Azure DevOps** and **GitHub**
 
 # DevOps Overview
 
+DevOps combines development (Dev) and operations (Ops) to unite people, process, and technology in application planning, development, delivery, and operations. DevOps enables coordination and collaboration between formerly siloed roles like development, IT operations, quality engineering, and security.
+
+Teams adopt DevOps culture, practices, and tools to increase confidence in the applications they build, respond better to customer needs, and achieve business goals faster. DevOps helps teams continually provide value to customers by producing better, more reliable products.
+
+![What is DevOps](./media/devops-lifecycle.png)
+
+[Source: What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
+
 ## Azure DevOps
 
 Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
