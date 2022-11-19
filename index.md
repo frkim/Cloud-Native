@@ -19,7 +19,7 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
 >These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to >make high-impact changes frequently and predictably with minimal toil.
 
 
-## Architecture
+## Architecture Sample
 ![Cloud-native Reference architecture](./media/cloud-native-apps.png)
 [Refence-architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cloud-native-apps)
 
