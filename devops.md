@@ -26,6 +26,7 @@ There is an another alternative by connecting Azure Boards with GitHub repositor
 
 ## Github Architecture Sample
 ![GitHub Architecture](./media/github-architecture.png)
+[Source: DevSecOps with GitHub Security](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github)
 
 
 ## Tutorials / Workshops
