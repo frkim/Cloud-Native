@@ -5,7 +5,7 @@ This page lists a lot of resources to start with [Azure Container Apps](https://
 
 Start here to get an overall preview => [Azure Container Apps + DAPR](https://livesend.microsoft.com/i/Hn75tMaQhfpTqXcJSjOLExTLRfIZc7YHMeBjaLEo4bbjJEsQPs1bcGKnVSKD8m2RSO___nA1hvQ1PLUSSIGNPsR2___qibp27Dh3D08D8KITx7kfmsBuwEK24nmqVz5QUpHPLUSSIGNEl41u6W)
 
-# Azure Container Apps
+# Azure Container Apps Overview
 **Azure Container Apps**  enables you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include:
 
  - Deploying API endpoints
@@ -15,7 +15,7 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
  - Host web Application
 
 
-## Tutorial / Workshop
+## Tutorials / Workshops
 
  - [Azure Container Apps Workshop](https://github.com/lgmorand/workshop-aca)
  - [Deploy to Azure Container Apps Workshop (quarkus.io)](https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html)
@@ -47,7 +47,7 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 [>> Get Started here!](https://docs.dapr.io/getting-started/)
 
 
-## eBook
+## eBooks
 
  - [Dapr for .NET Developers - Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
 
