@@ -14,6 +14,8 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
  - Running microservices
  - Host web Application
 
+## Important Readings
+ - [Comparing Container Apps with other Azure container options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
 
 ## Tutorials / Workshops
 
