@@ -8,14 +8,18 @@ This page lists a lot of resources to start with **Azure DevOps** and **GitHub**
 
 Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 
-## Azure GitHub
+## GitHub
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
 
 GitHub Actions goes beyond just DevOps and lets you run workflows when other events happen in your repository. For example, you can run a workflow to automatically add the appropriate labels whenever someone creates a new issue in your repository.
 
+## Azure DevOps or GitHub
+How to choose between Azure DevOps and GitHub?
+![AzDO GH How to choose](./media/AzDO-GH-HowToChoose.png)
+
 ## Azure DevOps + GitHub
-By connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. You can use GitHub for software development while using Azure Boards to plan and track your work. 
+There is an another alternative by connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. You can use GitHub for software development while using Azure Boards to plan and track your work. 
 
 ![DevSecOps](./media/devsecops.png)
 
