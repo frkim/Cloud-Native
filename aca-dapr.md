@@ -17,25 +17,19 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 
 ## Tutorial / Workshop
 
- - [Azure Container Apps Workshop
-   https://github.com/lgmorand/workshop-aca](https://github.com/lgmorand/workshop-aca)
- - [Deploy to Azure Container Apps Workshop
-   (quarkus.io)](https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html)
- - [Hello, Azure Container Apps | Building Cloud Native
-   Apps](https://azure.github.io/Cloud-Native/blog/09-aca-fundamentals/)
+ - [Azure Container Apps Workshop](https://github.com/lgmorand/workshop-aca)
+ - [Deploy to Azure Container Apps Workshop (quarkus.io)](https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html)
+ - [Hello, Azure Container Apps | Building Cloud Native Apps](https://azure.github.io/Cloud-Native/blog/09-aca-fundamentals/)
 
 ## Videos
 
- - [azure container apps - Bing
-   video](https://www.bing.com/videos/search?q=azure+container+apps+&FORM=HDRSC4)
- - [Azure Container Apps Tutorial Step by Step on YouTube
-](https://www.youtube.com/watch?v=MeTf58rE6oI&list=PLhl73Ukl8yfS9bTHeZ8FoklfC6D4Fk3Kj)
- - [Azure Container Apps -
-   YouTube](https://www.youtube.com/playlist?list=PLG9qZAczREKlgkenSQh8nK3dTA4lTeD3N)
+ - [azure container apps - Bing video](https://www.bing.com/videos/search?q=azure+container+apps+&FORM=HDRSC4)
+ - [Azure Container Apps Tutorial Step by Step on YouTube](https://www.youtube.com/watch?v=MeTf58rE6oI&list=PLhl73Ukl8yfS9bTHeZ8FoklfC6D4Fk3Kj)
+ - [Azure Container Apps - YouTube](https://www.youtube.com/playlist?list=PLG9qZAczREKlgkenSQh8nK3dTA4lTeD3N)
 
 ## Blogs
 
- - [Azure Container Apps · Thorsten Hans' blog (thorsten-hans.com)](https://www.thorsten-hans.com/tags/azure-container-apps/)
+ - [Azure Container Apps - Thorsten Hans' blog (thorsten-hans.com)](https://www.thorsten-hans.com/tags/azure-container-apps/)
  - [azure-container-apps - Paul's Blog (paulyu.dev)](https://paulyu.dev/tags/azure-container-apps/)
  - [Log storage and monitoring options in Azure Container Apps - Microsoft Learn](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
 
