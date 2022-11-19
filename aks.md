@@ -1,6 +1,6 @@
-# Azure Kubernetes Services AKS Resources
+# Azure Kubernetes Services - AKS Resources
 
-This page lists a lot of resources to start with [Azure Kubernetes AKS](https://learn.microsoft.com/en-us/azure/aks/)
+This page lists a lot of resources to start with [Azure Kubernetes Services - AKS](https://learn.microsoft.com/en-us/azure/aks/)
 
 # Overview
 
