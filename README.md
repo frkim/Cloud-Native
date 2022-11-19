@@ -1,2 +1,3 @@
-# getting_started_with_cloud-native
+# Get started with Cloud-Native
+
 Some relevant resources to get started with Microsoft Cloud-Native technologies.
