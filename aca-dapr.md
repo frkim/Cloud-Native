@@ -8,6 +8,8 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 # Azure Container Apps Overview
 
 ![Aca Overview](./media/aca-overview.png)
+[Reference: Deploy microservices with Azure Container Apps](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps)
+
 
 **Azure Container Apps**  enables you to run microservices and containerized applications on a serverless platform. Common uses of Azure Container Apps include:
  - Deploying API endpoints
