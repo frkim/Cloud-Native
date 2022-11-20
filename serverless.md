@@ -2,15 +2,15 @@
 
 Serverless architecture evolves cloud platforms toward pure cloud-native code by abstracting code from the infrastructure that it needs to run. Azure Functions is a serverless compute option that supports functions, small pieces of code that do single things.
 
-This page gathers a lot of resources to start with **Azure Serverless**
+This page gathers a lot of resources to start with **[Azure Serverless](https://azure.microsoft.com/en-us/solutions/serverless/)**
 
 # Overview
 
- - Azure Functions
- - Azure LogicApps
- - Azure App Services
- - Azure Managed Datastore (SQL, NoSQL)
- - Azure Messaging Services (Service Bus, Event Hub...)
+ - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)
+ - [Azure LogicApps](https://learn.microsoft.com/en-us/azure/logic-apps/)
+ - [Azure App Services](https://learn.microsoft.com/en-us/azure/app-service/)
+ - Azure Managed Datastore ([SQL](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql), [NoSQL)](https://learn.microsoft.com/en-us/azure/cosmos-db/)...)
+ - Azure Messaging Services ([Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/), [Event Hub](https://learn.microsoft.com/en-us/azure/event-hubs/), [Event grid](https://learn.microsoft.com/en-us/azure/event-grid/)...)]()
 
 ## Architecture
 
@@ -19,9 +19,14 @@ This page gathers a lot of resources to start with **Azure Serverless**
  - [Serverless Functions reference architectures](https://learn.microsoft.com/en-us/azure/architecture/serverless-quest/reference-architectures)
 
 
+![Serverless Architecure](./media/serverless-architecture.png)
+
+ - [Source: Image classification on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+
+
 ## Links
 
-This section lists a lot of resources to start with **Azure Serverless**
+This section lists a lot of resources to start with **[Azure Serverless](https://azure.microsoft.com/en-us/solutions/serverless/)**
 
 ## Tutorial / Workshop
 
@@ -46,4 +51,6 @@ This section lists a lot of resources to start with **Azure Serverless**
 
  - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
 
+## Sample application
 
+ - [Serverless-microservices-reference-architecture](https://github.com/serverless-architecture/reference-architectures)
