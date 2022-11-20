@@ -4,6 +4,10 @@ This page lists a lot of resources to start with [Azure API Management - APIM](h
 
 
 # Overview
+
+Azure API Management is a turnkey solution for publishing APIs to external and internal customers. This service helps to create consistent and modern API gateways for existing back-end services hosted anywhere, secure and protect them from abuse and overuse, and get insights into usage and health. Plus, it automates and scales developer on-boarding to help get your API program up and running.
+On-boarding of developers happens via the Developer Portal (which Azure API Management provisions for you along with API gateway). Here they can read API documentation, create an account, get subscription key (to be able to invoke the API), and even try making some calls to the API right from the portal using a specialized console.
+
 Azure API Management helps customers meet these challenges:
  - Abstract backend architecture diversity and complexity from API consumers
  - Securely expose services hosted on and outside of Azure as APIs
@@ -33,10 +37,6 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 ## Blogs
 
  - [Azure PaaS Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog/label-name/azure%20api%20management)
- - [Link](##########)
- - [Link](##########)
- - [Link](##########)
-
 
 
 ## Videos
