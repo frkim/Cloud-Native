@@ -25,9 +25,8 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
 ![APIM Components](./media/api-management-components.png)
 
->
-> [APIM Resources Portal from Microsoft Product Group](https://aka.ms/apimlove)
->
+> The best way to start with Azure API Management is **[APIM Resource Portal](https://aka.ms/apimlove)**
+> You'll find in this page a lot of resources and this page is frequently updated by Microsoft APIM Product Group.
 
 ## Tutorials / Workshops
 
