@@ -3,6 +3,11 @@
 This page lists a lot of resources to start with [Azure API Management - APIM](https://learn.microsoft.com/en-us/azure/api-management/)
 
 
+> .
+> The best way to start with Azure API Management is **[APIM Resource Portal](https://aka.ms/apimlove)**
+> You'll find in this page a lot of resources and this page is frequently updated by Microsoft APIM Product Group.
+> .
+
 # Overview
 
 Azure API Management is a turnkey solution for publishing APIs to external and internal customers. This service helps to create consistent and modern API gateways for existing back-end services hosted anywhere, secure and protect them from abuse and overuse, and get insights into usage and health. Plus, it automates and scales developer on-boarding to help get your API program up and running.
@@ -25,8 +30,6 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
 ![APIM Components](./media/api-management-components.png)
 
-> The best way to start with Azure API Management is **[APIM Resource Portal](https://aka.ms/apimlove)**
-> You'll find in this page a lot of resources and this page is frequently updated by Microsoft APIM Product Group.
 
 ## Tutorials / Workshops
 
