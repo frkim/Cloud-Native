@@ -56,7 +56,7 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
  - [API Design](https://aka.ms/api-design-ebook)
  - [Whitepaper: API Management in a hybrid and multi-cloud world](https://aka.ms/apimarc)
- - [Link](##########)
+
 
 ## APIOps / API GitOps
 
