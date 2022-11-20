@@ -28,8 +28,10 @@ You'll find a lot of servless architecture here: [Serverless Functions reference
 
 This section lists a lot of resources to start with **[Azure Serverless](https://azure.microsoft.com/en-us/solutions/serverless/)**
 
-## Tutorial / Workshop
+## Portals
+ -[Azure Functions Portal](https://github.com/Azure/Azure-Functions)
 
+## Tutorial / Workshop
 
  - [Choose the best Azure serverless technology for your business scenario (AZ-900) - 20m](https://learn.microsoft.com/en-us/training/modules/serverless-fundamentals/)
  - [AZ-204: Implement Azure Functions - 1h30](https://learn.microsoft.com/en-us/training/paths/implement-azure-functions/)
@@ -37,11 +39,13 @@ This section lists a lot of resources to start with **[Azure Serverless](https:/
  - [Architect message brokering and serverless applications in Azure learning path - 6h](https://learn.microsoft.com/en-us/training/paths/architect-messaging-serverless/)
  - [Create serverless applications learning path - 8h](https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/)
  - [What The Hack - Azure Serverless](https://github.com/microsoft/WhatTheHack/tree/master/015-Serverless)
- 
+ - [Serverless Cloud Skill Challenge](https://learn.microsoft.com/en-us/users/cloudskillschallenge/collections/25m3hkzxygde?WT.mc_id=cloudskillschallenge_b950cd7a-d456-46ab-81ba-3bd1ad86dc1c)
 
 ## Blogs
 
  - [Serverless Zero-to-Hero](https://azure.github.io/Cloud-Native/serverless-september/ZeroToHero/)
+ - [Sound Code](https://markheath.net/category/azure%20functions)
+
 
 ## eBook
 
