@@ -12,16 +12,16 @@ This page gathers a lot of resources to start with **[Azure Serverless](https://
  - Azure Managed Datastore ([SQL](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql), [NoSQL)](https://learn.microsoft.com/en-us/azure/cosmos-db/)...)
  - Azure Messaging Services ([Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/), [Event Hub](https://learn.microsoft.com/en-us/azure/event-hubs/), [Event grid](https://learn.microsoft.com/en-us/azure/event-grid/)...)]()
 
-## Architecture
+## Exemples of Serverless Architectures
 
 ![Serverless Web Architecure](./media/serverless-web-app.png)
 
- - [Serverless Functions reference architectures](https://learn.microsoft.com/en-us/azure/architecture/serverless-quest/reference-architectures)
-
-
 ![Serverless Architecure](./media/serverless-architecture.png)
 
- - [Source: Image classification on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+ [Source: Image classification on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+
+
+You'll find a lot of servless architecture here: [Serverless Functions reference architectures](https://learn.microsoft.com/en-us/azure/architecture/serverless-quest/reference-architectures)
 
 
 ## Links
