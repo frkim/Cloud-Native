@@ -82,8 +82,8 @@ This section lists a lot of resources to start with [Azure Container Apps](https
 
  - [Building great microservices solutions with Dapr and .NET (linkedin.com)](https://www.linkedin.com/learning/azure-dapr-for-dot-net-developers-part-1/building-great-microservices-solutions-with-dapr-and-dot-net?u=3322)
  - [Bienvenue dans « L'essentiel de Dapr » (linkedin.com)](https://www.linkedin.com/learning/l-essentiel-de-dapr/bienvenue-dans-l-essentiel-de-dapr?u=3322)
- - [14. Build ACA with Dapr - Building Cloud Native Apps (azure.github.io)](https://azure.github.io/Cloud-Native/blog/14-dapr-aca-quickstart/)
- - [WhatTheHack/047-TrafficControlWithDapr at master · microsoft/WhatTheHack (github.com)](https://github.com/microsoft/WhatTheHack/tree/master/047-TrafficControlWithDapr)
+ - [Building Cloud Native Apps with ACA and DAPR](https://azure.github.io/Cloud-Native/blog/14-dapr-aca-quickstart/)
+ - [WhatTheHack/047-TrafficControlWithDapr](https://github.com/microsoft/WhatTheHack/tree/master/047-TrafficControlWithDapr)
 
 ## Videos
 
