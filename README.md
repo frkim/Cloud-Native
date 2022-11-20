@@ -7,7 +7,7 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
 
 ## Tips to edit these pages
 
-Just change the [.com](https://github.com/frkim/Cloud-Native) suffix by [.dev](https://github.dev/frkim/Cloud-Native) in the GitHub URL to load the VS online editor
+Just change the [.com](https://github.com/frkim/Microsoft-Cloud-Native) suffix by [.dev](https://github.dev/frkim/Microsoft-Cloud-Native) in the GitHub URL to load the VS online editor
 
 ## Contributing
 
