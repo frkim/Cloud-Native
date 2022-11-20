@@ -9,10 +9,16 @@ This page gathers a lot of resources to start with [Azure Kubernetes Services - 
 
  [Source: AKS Intro](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
+# Container Hosting Service on Azure
+ ![Container Hosting Service on Azure](./media/containers-comparison.png)
+
+ [Source: How to choose a compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service)
+
+
 
 # Architecture Sample
  ![AKS Architecture](./media/aks-architecture.png)
-[Source: Microservices architecture on Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices)
+[Source: Microservices architecture on Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/architecture/browse/?terms=aks)
 
 # AKS Landing Zone
 Strategic design path and target technical state for an Azure Kubernetes Service (AKS) deployment.
@@ -58,5 +64,7 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
  - [AKS GitHub Project](https://github.com/Azure/AKS)
 
 
+## Sample Application
 
+ - [AKS Fabrikam Drone Delivery](https://github.com/mspnp/aks-fabrikam-dronedelivery)
 
