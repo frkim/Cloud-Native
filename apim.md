@@ -61,6 +61,7 @@ This page lists a lot of resources to start with [Azure API Management - APIM](h
 
  - [API Design](https://aka.ms/api-design-ebook)
  - [Whitepaper: API Management in a hybrid and multi-cloud world](https://aka.ms/apimarc)
+ - [Driving Digital Transformation in Today’s API Economy](https://azure.microsoft.com/en-us/resources/azure-api-management-driving-digital-transformation-in-todays-api-economy/)
 
 
 ## APIOps / API GitOps

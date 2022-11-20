@@ -5,6 +5,10 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
 > See [Index Page](./index.md) 
 
 
+## Tips to edit these pages
+
+Just change the [.com](https://github.com/frkim/Cloud-Native) suffix by [.dev](https://github.dev/frkim/Cloud-Native) in the GitHub URL to load the VS online editor
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
@@ -23,6 +27,10 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 
-## Tips to edit these pages
+## Trademarks
 
-Just change the [.com](https://github.com/frkim/Cloud-Native) suffix by [.dev](https://github.dev/frkim/Cloud-Native) in the GitHub URL to load the VS online editor
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
+trademarks or logos is subject to and must follow 
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+Any use of third-party trademarks or logos are subject to those third-party's policies.
