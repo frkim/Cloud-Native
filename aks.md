@@ -6,7 +6,8 @@ This page gathers a lot of resources to start with [Azure Kubernetes Services - 
 
 # Overview
  ![AKS 101](./media/aks-101.png)
- ![Source: AKS Intro](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
+
+ [Source: AKS Intro](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
 
 # Architecture Sample
@@ -18,11 +19,10 @@ Strategic design path and target technical state for an Azure Kubernetes Service
 
  ![AKS Landing Zone](./media/aks-landingzone.png)
 
- - [AKS Landing Zone](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
+ [Source: AKS Landing Zone](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
 
 Reference architecture, we'll build a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster
 - [AKS Baseline](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
-
 
 # Links
 
@@ -35,6 +35,12 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
  - [AKS Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
  - [AKS Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 
+## Blogs
+
+ - [Learn K8s](https://learnk8s.io/blog)
+ - [Stanislas Quastana Blog (FR)](https://stanislas.io/?s=aks)
+
+
 ## Videos
 
  - [Brendan Burns](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
@@ -44,12 +50,11 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 ## eBook
 
  - [Get up and running with K8s](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/)
- - [Link#]()
 
 ## Usefull tools and 3rd party
 
  - [AKS Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)
- - [AKS CheckList](https://www.the-aks-checklist.com/)
+ - [AKS CheckList by LG Morand](https://www.the-aks-checklist.com/)
  - [AKS GitHub Project](https://github.com/Azure/AKS)
 
 
