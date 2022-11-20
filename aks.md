@@ -55,6 +55,7 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 
 ## eBook
 
+ - [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
  - [Get up and running with K8s](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/)
  - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 
