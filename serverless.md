@@ -36,6 +36,7 @@ This section lists a lot of resources to start with **[Azure Serverless](https:/
  - [Build serverless, full stack applications in Azure - 3h](https://learn.microsoft.com/en-us/training/paths/build-serverless-full-stack-apps-azure/)
  - [Architect message brokering and serverless applications in Azure learning path - 6h](https://learn.microsoft.com/en-us/training/paths/architect-messaging-serverless/)
  - [Create serverless applications learning path - 8h](https://learn.microsoft.com/en-us/training/paths/create-serverless-applications/)
+ - [What The Hack - Azure Serverless](https://github.com/microsoft/WhatTheHack/tree/master/015-Serverless)
  
 
 ## Blogs
