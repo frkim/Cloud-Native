@@ -79,7 +79,7 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
  - [Azure DevOps Blog Updates](https://devblogs.microsoft.com/devops/category/community/)
  - [GitHub Blog](https://github.blog/)
 
-## eBook
+## eBooks
 
  - [Empowering developers to build secure software faster with GitHub Advanced Security](https://resources.github.com/security/secure-software-faster-ebook/)
  - [How static application security testing (SAST) can help you fix bugs at the speed of development?](https://resources.github.com/security/sast/?submitted=true)
