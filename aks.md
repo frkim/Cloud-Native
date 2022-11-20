@@ -9,11 +9,10 @@ This page gathers a lot of resources to start with [Azure Kubernetes Services - 
 
  [Source: AKS Intro](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
-# Container Hosting Service on Azure
+# Container Hosting Services on Azure
  ![Container Hosting Service on Azure](./media/containers-comparison.png)
 
  [Source: How to choose a compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#choose-a-candidate-service)
-
 
 
 # Architecture Sample
@@ -35,7 +34,7 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 ## Basic Concepts
  - [Kubernetes core concepts for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
-## Tutorial / Workshop
+## Tutorials / Workshops
 
  - [AKS on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=azure&filter-products=kub&products=azure-kubernetes-service)
  - [AKS Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
@@ -53,7 +52,7 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
  - [John Savill](https://www.youtube.com/c/NTFAQGuy/search?query=aks)
  - [Houssem Dellai](https://www.youtube.com/playlist?list=PLpbcUe4chE79sB7Jg7B4z3HytqUUEwcNE)
 
-## eBook
+## eBooks
 
  - [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
  - [Get up and running with K8s](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/)
@@ -66,7 +65,7 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
  - [AKS GitHub Project](https://github.com/Azure/AKS)
 
 
-## Sample Application
+## Sample AKS Application
 
  - [AKS Fabrikam Drone Delivery](https://github.com/mspnp/aks-fabrikam-dronedelivery)
 
