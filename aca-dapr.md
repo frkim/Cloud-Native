@@ -16,13 +16,14 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
  - Host web Application
 
 ![Aca Overview](./media/aca-overview.png)
+
 [Source: Deploy microservices with Azure Container Apps](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps)
 
 # Container hosting services in Azure
 
 ![Container hosting solutions](./media/aca-comparison.png)
 
- - [Comparing Container Apps with other Azure container options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
+[Comparing Container Apps with other Azure container options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
 
 
 # Architecture Sample
