@@ -1,6 +1,6 @@
 # Azure API Management Resources
 
-This page lists a lot of resources to start with [Azure API Management - APIM](https://learn.microsoft.com/en-us/azure/api-management/)
+This page gathers a lot of resources to start with [Azure API Management - APIM](https://learn.microsoft.com/en-us/azure/api-management/)
 
 
 > **Note**
@@ -30,6 +30,8 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 ![APIM Components](./media/api-management-components.png)
 
 # Links
+
+This page lists a lot of resources to start with [Azure API Management - APIM](https://learn.microsoft.com/en-us/azure/api-management/)
 
 ## Tutorials / Workshops
 

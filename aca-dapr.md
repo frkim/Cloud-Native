@@ -1,6 +1,6 @@
 # Azure Container Apps and DAPR Resources
 
-This page lists a lot of resources to start with [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview) (ACA) and [DAPR](https://dapr.io/).
+This page gathers some resources to start with [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview) (ACA) and [DAPR](https://dapr.io/).
 
 
 Start here to get an overall preview => [Azure Container Apps + DAPR](https://livesend.microsoft.com/i/Hn75tMaQhfpTqXcJSjOLExTLRfIZc7YHMeBjaLEo4bbjJEsQPs1bcGKnVSKD8m2RSO___nA1hvQ1PLUSSIGNPsR2___qibp27Dh3D08D8KITx7kfmsBuwEK24nmqVz5QUpHPLUSSIGNEl41u6W)
@@ -30,6 +30,9 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 [Source: Deploy microservices with Azure Container Apps](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps)
 
 # Links
+
+This section lists a lot of resources to start with [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview) (ACA) and [DAPR](https://dapr.io/).
+
 
 ## Tutorials / Workshops
 
@@ -67,7 +70,7 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 # DAPR Architecture
 
 ![DAPR High Level](./media/dapr-architecture.png)
-[Source:](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr)
+[Source: Deploy microservices with Azure Container Apps and Dapr](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr)
 
 # Links
 

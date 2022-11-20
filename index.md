@@ -9,7 +9,7 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
  - [Azure DevOps and Github](./devops.md)
  
 
-## Cloud Native Overview
+# Cloud Native Overview
 
 ![Cloud-Native](./media/cloud-native.png)
 
@@ -19,7 +19,7 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
 >These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to >make high-impact changes frequently and predictably with minimal toil.
 
 
-## Architecture Sample
+# Architecture Sample
 You find below an architecture sample of Cloud-Native Application.
 
 ![Cloud-native Reference architecture](./media/cloud-native-apps.png)

@@ -1,6 +1,6 @@
 # Azure DevOps and GitHub Resources
 
-This page lists a lot of resources to start with **Azure DevOps** and **GitHub**
+This page gathers a lot of resources to start with **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)** and **[Github](https://www.github.com)**
 
 # DevOps Overview
 
@@ -37,6 +37,8 @@ There is an another alternative by connecting Azure Boards with GitHub repositor
 [Source: DevSecOps with GitHub Security](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github)
 
 # Links
+
+This sections lists a lot of links to start with **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)** and **[Github](https://www.github.com)**
 
 ## Tutorials / Workshops
 
