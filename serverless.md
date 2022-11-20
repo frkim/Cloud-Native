@@ -29,7 +29,7 @@ You'll find a lot of servless architecture here: [Serverless Functions reference
 This section lists a lot of resources to start with **[Azure Serverless](https://azure.microsoft.com/en-us/solutions/serverless/)**
 
 ## Portals
- -[Azure Functions Portal](https://github.com/Azure/Azure-Functions)
+ - [Azure Functions Portal](https://github.com/Azure/Azure-Functions)
 
 ## Tutorial / Workshop
 
