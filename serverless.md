@@ -54,4 +54,5 @@ This section lists a lot of resources to start with **[Azure Serverless](https:/
 
 ## Sample application
 
- - [Serverless-microservices-reference-architecture](https://github.com/serverless-architecture/reference-architectures)
+ - [Serverless-microservices-reference-architecture](https://github.com/petertuton/serverless-reference-implementation)
+
