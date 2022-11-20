@@ -30,7 +30,7 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 
  - [Azure Container Apps Workshop](https://github.com/lgmorand/workshop-aca)
  - [Deploy to Azure Container Apps Workshop (quarkus.io)](https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html)
- - [Hello, Azure Container Apps | Building Cloud Native Apps](https://azure.github.io/Cloud-Native/blog/09-aca-fundamentals/)
+ - [Hello, Azure Container Apps - Building Cloud Native Apps](https://azure.github.io/Cloud-Native/blog/09-aca-fundamentals/)
 
 ## Videos
 
