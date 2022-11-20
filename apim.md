@@ -30,12 +30,19 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
  - [Import and publish your first API in APIM]()
  - [Azure Apim Hands on Lab](https://azure.github.io/apim-lab/)
 
+## Blogs
+
+ - [Azure PaaS Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog/label-name/azure%20api%20management)
+ - [Link](##########)
+ - [Link](##########)
+ - [Link](##########)
+
+
 
 ## Videos
 
- - [Link](##########)
- - [Link](##########)
- - [Link](##########)
+ - [APIM Ultimate Learning Course - 3hours](https://www.youtube.com/watch?v=K-tYU8GOUt0)
+
 
 ## 3rd Party tools
 
@@ -48,8 +55,8 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
 ## eBook
 
- - [Link](##########)
- - [Link](##########)
+ - [API Design](https://aka.ms/api-design-ebook)
+ - [Whitepaper: API Management in a hybrid and multi-cloud world](https://aka.ms/apimarc)
  - [Link](##########)
 
 ## APIOps / API GitOps
