@@ -64,6 +64,12 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 
 [>> Get Started here!](https://docs.dapr.io/getting-started/)
 
+# DAPR Architecture
+
+![DAPR High Level](./media/dapr-architecture.png)
+[Source:](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/serverless/microservices-with-container-apps-dapr)
+
+# Links
 
 ## eBooks
 

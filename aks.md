@@ -5,13 +5,15 @@ Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster
 This page lists a lot of resources to start with [Azure Kubernetes Services - AKS](https://learn.microsoft.com/en-us/azure/aks/)
 
 # Overview
- - ![AKS Foundation](./media/aks-foundations.png)
+ - ![AKS Foundation](./media/aks-101.png)
 
 # Architecture Sample
  - ![AKS Architecture](./media/aks-architecture.png)
 
 # AKS Landing Zone
 Strategic design path and target technical state for an Azure Kubernetes Service (AKS) deployment.
+
+- ![AKS Landing Zone](./media/aks-landingzone.png)
 
  - [AKS Landing Zone](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator)
 
