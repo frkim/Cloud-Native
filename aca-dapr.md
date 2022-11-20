@@ -27,7 +27,6 @@ Start here to get an overall preview => [Azure Container Apps + DAPR](https://li
 
 ![Container hosting solutions](./media/aca-comparison.png)
 
-## Important Readings
  - [Comparing Container Apps with other Azure container options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
 
 ## Tutorials / Workshops
