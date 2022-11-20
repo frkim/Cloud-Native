@@ -23,6 +23,6 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 
-## Edit Tips
+## Tips to edit these pages
 
-Just change the .com by .dev in the GitHub URL to load the VS online editor
+Just change the [.com](https://github.com/frkim/Cloud-Native) suffix by [.dev](https://github.dev/frkim/Cloud-Native) in the GitHub URL to load the VS online editor
