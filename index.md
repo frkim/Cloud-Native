@@ -23,6 +23,6 @@ Some relevant resources to get started with Microsoft Cloud-Native technologies.
 You find below an architecture sample of Cloud-Native Application.
 
 ![Cloud-native Reference architecture](./media/cloud-native-apps.png)
-[Refence-architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cloud-native-apps)
+[Source: Refence-architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cloud-native-apps)
 
 
