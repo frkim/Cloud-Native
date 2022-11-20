@@ -29,6 +29,7 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
 ![APIM Components](./media/api-management-components.png)
 
+# Links
 
 ## Tutorials / Workshops
 
