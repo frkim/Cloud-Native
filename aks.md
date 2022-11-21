@@ -67,5 +67,6 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 
 ## Sample AKS Application
 
+ - [Contoso band name generator for AKS developer experience demo](https://github.com/sabbour/contoso-names)
  - [AKS Fabrikam Drone Delivery](https://github.com/mspnp/aks-fabrikam-dronedelivery)
 
