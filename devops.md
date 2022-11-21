@@ -26,6 +26,21 @@ GitHub Actions goes beyond just DevOps and lets you run workflows when other eve
 How to choose between Azure DevOps and GitHub?
 ![AzDO GH How to choose](./media/AzDO-GH-HowToChoose.png)
 
+### Features comparison by solutions
+| DevOps Phase | Area | Azure DevOps | GitHub | Comments |
+|:---:|:---:|:---:|:---:|:---:|
+| Plan | Plan & Track | **Boards** | **Issues & Projects** | This is an area where we   are aggressively working to build out features in GitHub. Key Gaps:   Hierarchical Relationships, Plan in Sprints, Saved Issue Queries.  Sprint Planning: Azure Boards integrated   with GitHub. Basic Planning: GitHub Issues & Projects. |
+| Collaborate | Group Think |  | **Discussions** | Organize conversations into a threaded format.  Only available in GitHub.  |
+| Develop | Source Control Management | **Repos** | **Repos** | Use GitHub to get value   today from Advanced Security features, Innersource, developer familiarity w/   GitHub.  |
+|  | Advanced Coding | (Azure DevBox) | **CodeSpaces** + **Copilot** | Available natively only in GitHub |
+|  | Security Coding | (3rd party with extensions) | **Advanced Security** | Available natively in   GitHub. Azure DevOps needs 3rd party extensions but there is a coming feature   " GitHub Advanced Security for Azure DevOps". This shifts security   to the left! |
+| Deliver | Packages | **Artifacts** | **Packages** | GitHub Packages if you are using GitHub Repos. Otherwise, use Azure   Artifacts |
+|  | CI/CD | **Pipelines** | **Actions** | Both Azure DevOps and   GitHub Action provides rich capabilities to runs your CI/CD pipelines |
+|  | Worklow Automation |  | **Actions** | GitHub Actions can be used for a lot more than just CI/CD and performs   other workflows. |
+|  | Manual testing | **Test Plans** |  | Azure Test Plans is only   available in Azure DevOps. |
+| Operate,   Monitor & Learn | Dashboard &   Reporting | **Dashboard & Reporting** | **Insights** | Azure DevOps provides customizable dashboard with widgets and GitHub   insights gives valuable information  |
+| All | Mobile Access |  | **Mobile App** | First class mobile   experience for iOS and Android. Only available for GitHub. |
+
 ## Azure DevOps + GitHub
 There is an another alternative by connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. You can use GitHub for software development while using Azure Boards to plan and track your work. 
 
