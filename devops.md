@@ -29,7 +29,7 @@ How to choose between Azure DevOps and GitHub?
 ### Features comparison by solutions
 | DevOps Phase | Area | Azure DevOps | GitHub | Comments |
 |:---:|:---:|:---:|:---:|:---:|
-| Plan | Plan & Track | **Boards** | **Issues & Projects** | This is an area where we   are aggressively working to build out features in GitHub. Key Gaps:   Hierarchical Relationships, Plan in Sprints, Saved Issue Queries.  Sprint Planning: Azure Boards integrated   with GitHub. Basic Planning: GitHub Issues & Projects. |
+| Plan | Plan & Track | **Boards** | **Issues & Projects** | Azure Devops provides rich project management features like Product Baklog management, hierarchical relationships, plan in sprints, saved queries, sprint Planning whereas GitHub Projects is an adaptable collection of items with customizable views |
 | Collaborate | Group Think |  | **Discussions** | Organize conversations into a threaded format.  Only available in GitHub.  |
 | Develop | Source Control Management | **Repos** | **Repos** | Use GitHub to get value   today from Advanced Security features, Innersource, developer familiarity w/   GitHub.  |
 |  | Advanced Coding | (Azure DevBox) | **CodeSpaces** + **Copilot** | Available natively only in GitHub |
