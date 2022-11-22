@@ -101,5 +101,14 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
  - [How static application security testing (SAST) can help you fix bugs at the speed of development?](https://resources.github.com/security/sast/?submitted=true)
  - [Azure DevOps Explained (published by Packt)](https://github.com/PacktPublishing/Learning-Azure-DevOps---B16392)
 
+## Migration Tools
+### DevOps
 
+ - [Migration Tools for Azure DevOps - Naked Agility](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration)
+ - [OpsHub Azure DevOps Migrator](https://www.opshub.com/products/opshub-azure-devops-migrator/)
+
+### GitHub
+
+ - [GitHub Valet CLI](https://github.com/github/gh-valet)
+ - [GitHub Enterprise Importer CLI - Octoshift](https://github.com/github/gh-gei)
 
