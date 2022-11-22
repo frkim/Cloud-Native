@@ -1,4 +1,4 @@
-# Get started with cloud native technologies
+# Get started with cloud-native technologies
 
 You'll find some resources to get started with Microsoft Cloud-Native technologies like:
  - [Azure Container Apps and DAPR](./aca-dapr.md)
@@ -8,7 +8,7 @@ You'll find some resources to get started with Microsoft Cloud-Native technologi
  - [Azure DevOps and Github](./devops.md)
  
 
-# Cloud Native Overview
+# Cloud-Native Overview
 
 ![Cloud-Native](./media/cloud-native.png)
 
