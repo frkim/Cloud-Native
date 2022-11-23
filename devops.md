@@ -107,7 +107,7 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
  - [Migration Tools for Azure DevOps - Naked Agility](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration)
  - [OpsHub Azure DevOps Migrator](https://www.opshub.com/products/opshub-azure-devops-migrator/)
  - [From classic to yaml pipeline](https://learn.microsoft.com/en-us/azure/devops/pipelines/migrate/from-classic-pipelines?view=azure-devops#export-your-classic-pipeline)
- - [Convert Azure Pipelines to YAML in 1 click]([https://learn.microsoft.com/en-us/azure/devops/pipelines/migrate/from-classic-pipelines?view=azure-devops#export-your-classic-pipeline](https://dev.to/n3wt0n/classic-to-yaml-new-export-azure-pipelines-feature-26ca))
+ - [Convert Azure Pipelines to YAML in 1 click]([https://learn.microsoft.com/en-us/azure/devops/pipelines/migrate/from-classic-pipelines?view=azure-devops#export-your-classic-pipeline](https://dev.to/n3wt0n/classic-to-yaml-new-export-azure-pipelines-feature-26ca)
 
 ### GitHub
 
