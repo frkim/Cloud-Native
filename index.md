@@ -24,6 +24,6 @@ You find below an architecture sample of Cloud-Native Application.
 
 ![Cloud-native Reference architecture](./media/cloud-native-apps.png)
 
-[Source: Refence-architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cloud-native-apps)
+[Source: Reference-architecture](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/cloud-native-apps)
 
 
