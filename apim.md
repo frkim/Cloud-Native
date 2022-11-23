@@ -2,10 +2,8 @@
 
 This page gathers a lot of resources to start with [Azure API Management - APIM](https://learn.microsoft.com/en-us/azure/api-management/)
 
-
-> **Note**
-> The best way to start with Azure API Management is **[APIM Resource Portal](https://aka.ms/apimlove)**
-> You'll find in this page a lot of resources and this page is frequently updated by Microsoft APIM Product Group.
+The best way to start with Azure API Management is **[APIM Resource Portal](https://aka.ms/apimlove)**
+You'll find in this page plenty of information. Moreover, this page is frequently updated by the Microsoft APIM Product Group.
 
 # APIM Overview
 
