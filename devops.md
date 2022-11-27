@@ -63,6 +63,8 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
  - [DevOps Resource Center](https://learn.microsoft.com/en-us/devops/)
  - [DevOps Consideration and Landing Zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/devops-principles-and-practices)
  - [DevOps Dojo](https://devblogs.microsoft.com/devops/intro-of-devops-dojo/)
+ - [The DevOps Best Practices List](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91)
+ - [The DevOps Awesome List](https://github.com/wmariuss/awesome-devops)
 
 
 ### GitHub
