@@ -34,6 +34,10 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 ## Basic Concepts
  - [Kubernetes core concepts for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
+## General product 
+- [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
+- [AKS Release Notes](https://github.com/Azure/AKS/releases)
+
 ## Tutorials / Workshops
 
  - [AKS on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=azure&filter-products=kub&products=azure-kubernetes-service)
@@ -44,7 +48,6 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 
  - [Learn K8s](https://learnk8s.io/blog)
  - [Stanislas Quastana Blog (FR)](https://stanislas.io/?s=aks)
-
 
 ## Videos
 
@@ -58,12 +61,25 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
  - [Get up and running with K8s](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/)
  - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 
+## Best practices 
+ - [AKS Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)
+ - [AKS GitHub Project](https://github.com/Azure/AKS)
+ - [Production Baseline for AKS](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks)
+ - [AKS CheckList by LG Morand](https://www.the-aks-checklist.com/)
+
+## Advanced Networking 
+- [AKS Networking Overview](https://blog.stevegriffith.nyc/posts/aks-networking/)
+- [AKS Networking Part I](https://blog.stevegriffith.nyc/posts/aks-networking-part1)
+- [AKS Networking Part II](https://blog.stevegriffith.nyc/posts/aks-networking-part2)
+- [AKS Networking IP Tables](https://blog.stevegriffith.nyc/posts/aks-networking-iptables)
+
+## BYO Private Zone
+- [BYO Private Zone Demo Content and Links](https://github.com/swgriffith/azure-guides/tree/master/dns)
+
 ## Usefull tools and 3rd party
 
- - [AKS Best Practices](https://docs.microsoft.com/en-us/azure/aks/best-practices)
- - [AKS CheckList by LG Morand](https://www.the-aks-checklist.com/)
- - [AKS GitHub Project](https://github.com/Azure/AKS)
-
+ - [Lens - The K8s IDE](https://k8slens.dev/)
+ 
 
 ## Sample AKS Application
 
