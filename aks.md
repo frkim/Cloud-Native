@@ -72,9 +72,13 @@ Reference architecture, we'll build a baseline infrastructure that deploys an Az
 - [AKS Networking Part I](https://blog.stevegriffith.nyc/posts/aks-networking-part1)
 - [AKS Networking Part II](https://blog.stevegriffith.nyc/posts/aks-networking-part2)
 - [AKS Networking IP Tables](https://blog.stevegriffith.nyc/posts/aks-networking-iptables)
+- [AKS in the HubSpoke](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/aks-the-elephant-in-the-hub-amp-spoke-room-deep-dive/ba-p/3635985#content)
 
 ## BYO Private Zone
 - [BYO Private Zone Demo Content and Links](https://github.com/swgriffith/azure-guides/tree/master/dns)
+
+## Code to Cloud
+ - [Code-to-cloud with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-to-cloud-with-azure-kubernetes-service-aks/ba-p/3669916)
 
 ## Usefull tools and 3rd party
 
