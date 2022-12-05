@@ -11,11 +11,12 @@ inputs:
     required: false
   TARGET:
     description: Target link
-    default: https://github.com/${{ github.repository }}
+    ## https://github.com/${{ github.repository }}
+    default: https://frkim.github.io/Microsoft-Cloud-Native 
     required: false
   RECURSIVE:
     description: Recursive?
-    required: false
+    required: true
   TITLE:
     description: Issue title
     required: false
