@@ -32,7 +32,7 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 
 ## Tutorials / Workshops
 
- - [Import and publish your first API in APIM]()
+ - [Import and publish your first API in APIM](https://learn.microsoft.com/en-us/azure/api-management/import-and-publish)
  - [Azure Apim Hands on Lab](https://azure.github.io/apim-lab/)
 
 ## Blogs
