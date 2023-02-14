@@ -43,7 +43,7 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 ## Videos
 
  - [APIM Ultimate Learning Course - 3hours](https://www.youtube.com/watch?v=K-tYU8GOUt0)
-
+ - [Protect Your Backend API with Azure AD using APIM](https://www.youtube.com/watch?v=_FigPkMbinU)
 
 ## 3rd Party tools
 
@@ -51,8 +51,9 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
  - [Online OpenAPI Editor](https://editor.swagger.io/)
  - [RequestBin.com](https://requestbin.com/)
  - [Online OpenAPI Editor](https://editor.swagger.io/)
+ - [ngrok](https://ngrok.com/product)
  - [OpenAPI Tools list](https://openapi.tools/)
- 
+
 
 ## eBooks
 
