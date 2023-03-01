@@ -101,5 +101,9 @@ This section lists a lot of resources to start with [Azure Container Apps](https
 
 ## Sample Apps
  - [Azure-Samples/container-apps-store-api-microservice: Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management (github.com)](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+ - [The famous eShopOnContainers sample powered by DAPR](https://github.com/dotnet-architecture/eShopOnDapr)
  - [Azure/reddog-code: Source code repository for the reddog demo, brought to you by the Cloud Native Global Black Belt Team. (github.com)](https://github.com/Azure/reddog-code)
  - [microsoft/dotnet-podcasts: .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more! (github.com)](https://github.com/microsoft/dotnet-podcasts)
+
+## Misc
+ - [ACA VS AKS - Decision Guide](https://github.com/lgmorand/aca-vs-aks/blob/main/src/comparison.md)
