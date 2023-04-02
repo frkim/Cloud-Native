@@ -52,6 +52,7 @@ This section lists a lot of resources to start with [Azure Container Apps](https
  - [Azure Container Apps - Thorsten Hans' blog (thorsten-hans.com)](https://www.thorsten-hans.com/tags/azure-container-apps/)
  - [azure-container-apps - Paul's Blog (paulyu.dev)](https://paulyu.dev/tags/azure-container-apps/)
  - [Log storage and monitoring options in Azure Container Apps - Microsoft Learn](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
+ - [ACA vs AKS](https://github.com/lgmorand/aca-vs-aks)
 
 ## Sample Apps
 
