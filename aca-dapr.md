@@ -52,12 +52,15 @@ This section lists a lot of resources to start with [Azure Container Apps](https
  - [Azure Container Apps - Thorsten Hans' blog (thorsten-hans.com)](https://www.thorsten-hans.com/tags/azure-container-apps/)
  - [azure-container-apps - Paul's Blog (paulyu.dev)](https://paulyu.dev/tags/azure-container-apps/)
  - [Log storage and monitoring options in Azure Container Apps - Microsoft Learn](https://learn.microsoft.com/en-us/azure/container-apps/log-options)
- - [ACA vs AKS](https://github.com/lgmorand/aca-vs-aks)
 
 ## Sample Apps
 
  - [Azure Container Apps samples - Microsoft Learn](https://learn.microsoft.com/en-us/azure/container-apps/samples)
  - [Azure-Samples/containerapps-albums: Companion repo for Azure Container Apps Tutorials and Samples (github.com)](https://github.com/Azure-Samples/containerapps-albums)
+
+## Misc
+ - [ACA VS AKS - Decision Guide](https://github.com/lgmorand/aca-vs-aks)
+
 
 # DAPR
 
@@ -105,6 +108,5 @@ This section lists a lot of resources to start with [Azure Container Apps](https
  - [The famous eShopOnContainers sample powered by DAPR](https://github.com/dotnet-architecture/eShopOnDapr)
  - [Azure/reddog-code: Source code repository for the reddog demo, brought to you by the Cloud Native Global Black Belt Team. (github.com)](https://github.com/Azure/reddog-code)
  - [microsoft/dotnet-podcasts: .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more! (github.com)](https://github.com/microsoft/dotnet-podcasts)
+ - [DAPR samples on ACA](https://learn.microsoft.com/en-us/samples/browse/?terms=dapr)
 
-## Misc
- - [ACA VS AKS - Decision Guide](https://github.com/lgmorand/aca-vs-aks/blob/main/src/comparison.md)
