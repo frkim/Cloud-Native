@@ -116,6 +116,5 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
 ### GitHub
 
  - [GitHub Actions Importer](https://github.com/github/gh-actions-importer)
- - [GitHub Valet CLI(legacy project of GH-AI)](https://github.com/github/gh-valet)
  - [GitHub Enterprise Importer CLI - Octoshift](https://github.com/github/gh-gei)
 
