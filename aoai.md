@@ -19,7 +19,7 @@ Users can access the service through REST APIs, Python SDK, or our web-based int
 
 First, I strongly recommand to start with this introduction post: [How to create a private ChatGPT with your own data](https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1)
 
-Chat Copilot Sample Application - This sample allows you to build your own integrated large language model (LLM) chat copilot. The sample is built on [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel).
+[Chat Copilot Sample Application](https://github.com/microsoft/semantic-kernel) - This sample allows you to build your own integrated large language model (LLM) chat copilot. The sample is built on [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/).
 
 ![AKS 101](https://camo.githubusercontent.com/db6af42498ba3e603ce6ac38f5ab124708ac1c25b48114108889c979baae7f67/68747470733a2f2f6c6561726e2e6d6963726f736f66742e636f6d2f656e2d75732f73656d616e7469632d6b65726e656c2f6d656469612f636861742d636f70696c6f742d696e2d616374696f6e2e676966)
 
