@@ -81,7 +81,6 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
 
 #### Other Github Learning resources:
 
-- [GitHub Learning Lab · GitHub Marketplace](https://github.com/marketplace/github-learning-lab)
 - [Microsoft Learn for GitHub](https://learn.microsoft.com/en-us/training/github/)
 - [GitHub Skills](https://skills.github.com/)
 - [GitHub Documentation](https://docs.github.com/en)
