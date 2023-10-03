@@ -2,7 +2,7 @@
 
 This page gathers some resources to start with [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview) (ACA) and [DAPR](https://dapr.io/).
 
-Start here to get an overview of ACA and DAPR (PowerPoint Deck) => [Azure Container Apps + DAPR](https://livesend.microsoft.com/i/Hn75tMaQhfpTqXcJSjOLExTLRfIZc7YHMeBjaLEo4bbjJEsQPs1bcGKnVSKD8m2RSO___nA1hvQ1PLUSSIGNPsR2___qibp27Dh3D08D8KITx7kfmsBuwEK24nmqVz5QUpHPLUSSIGNEl41u6W)
+Start here to get an overview of ACA and DAPR (PowerPoint Deck) => [Azure Container Apps + DAPR](https://livesend.microsoft.com/i/Hn75tMaQhfpTqXcJSjOLExTLRfIZc7YHMeBjaLEo4baAvIKbReiKkYsFLAkro1utQ3yr1b2s81c3jMelOc1XPLUSSIGNIT7S36fflLqWrsHC1TGJmZ___XT4asqsYSS6vtHccAnST)
 
 ## Azure Container Apps Overview
 
