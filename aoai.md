@@ -42,6 +42,8 @@ First, I strongly recommand to start with this introduction post: [How to create
 
 [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102)
 
+[GitHub Repository with implementation](https://github.com/FreddyAyala/AzureAIServicesLandingZone/tree/main)
+
 ![Reference Architecture](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/495142i616B2737C1324F0D/image-size/large?v=v2&px=999)
 
 [Implement logging and monitoring for Azure OpenAI models](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai)
