@@ -67,3 +67,7 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
  - [Automate API deployments with APIOps](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automated-api-deployments-apiops)
  - [Concepts of GitOps and DevOps to API deployment](https://azure.github.io/apiops)
  - [APIM Enterprise Accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/api-management/landing-zone-accelerator)
+
+## Other Resources
+
+ - [Example Reference Network Topologies for API Management in private mode](https://techcommunity.microsoft.com/t5/azure-architecture-blog/example-reference-network-topologies-for-api-management-in/ba-p/3932001)
