@@ -7,6 +7,7 @@ These models can be easily adapted to your specific task including but not limit
 - content generation
 - summarization
 - semantic search
+
 - natural language to code translation
 
 Users can access the service through REST APIs, Python SDK, or our web-based interface in the Azure OpenAI Studio.
@@ -68,6 +69,6 @@ First, I strongly recommand to start with this introduction post: [How to create
 ## Aditional Resources
 
 - Azure Open Ai Models: [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#model-summary-table-and-region-availability)
-- Whisper Model: [Announcing the Preview of OpenAI Whisper in Azure OpenAI service and Azure AI Speech](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-the-preview-of-openai-whisper-in-azure-openai-service/ba-p/3928388)
+- Azure AI News: [Azure AI Techcommunity Blog](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/bg-p/Azure-AI-Services-blog)
 - Azure Open AI: [Azure OpenAI Service - Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 - Quota & Limits: [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
