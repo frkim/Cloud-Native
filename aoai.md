@@ -53,6 +53,7 @@ First, I strongly recommand to start with this introduction post: [How to create
 ### Enterprise Deployment with Azure API Management
 
 - [Azure API Management with Azure OpenAI](https://github.com/pascalvanderheiden/ais-apim-openai)
+- [Azure OpenAI Service Load Balancing with Azure API Management](https://github.com/Azure-Samples/azure-openai-apim-load-balancing)
 - [Manage Azure Open AI using APIM](https://github.com/microsoft/AzureOpenAI-with-APIM#azure-commercial-api-management-to-azure-open-ai-with-private-endpoints)
 
 ## Tutorial, Walkthrough
