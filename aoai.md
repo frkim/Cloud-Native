@@ -67,6 +67,10 @@ First, I strongly recommand to start with this introduction post: [How to create
 
 - [Azure-OpenAI-demos by Serge Retkowsky](https://github.com/retkowsky/Azure-OpenAI-demos)
 
+## Optimization
+
+- [Smart load balancing for OpenAI endpoints and Azure API Management](https://github.com/andredewes/apim-aoai-smart-loadbalancing)
+
 ## Aditional Resources
 
 - Azure Open Ai Models: [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#model-summary-table-and-region-availability)
