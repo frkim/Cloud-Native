@@ -59,6 +59,7 @@ This section lists a lot of resources to start with [Azure Container Apps](https
 ## Misc
 
 - [ACA VS AKS - Decision Guide](https://github.com/lgmorand/aca-vs-aks)
+- [General architectural considerations for choosing an Azure container service](https://learn.microsoft.com/en-us/azure/architecture/guide/container-service-general-considerations)
 - [ACA Landing Zone Accelerator: Architectural guidance, Reference architecture and implementation](https://github.com/Azure/aca-landing-zone-accelerator)
 
 ## DAPR
