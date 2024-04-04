@@ -1,8 +1,7 @@
 GitHub Copilot Cheat Sheet
 ===
 This is a quick reference guide to get started with [GitHub Copilot](https://code.visualstudio.com/docs/editor/github-copilot).  
-This documents is a fork from: [jaywcj](https://github.com/jaywcjlove/reference/blob/main/docs/github-copilot.md)
-
+This page is a fork from: [jaywcj](https://github.com/jaywcjlove/reference/blob/main/docs/github-copilot.md)
 
 1.Preparation
 
@@ -579,10 +578,6 @@ You can find the complete parameter description in the `package.json` files of t
 `"debug.showScores"`| boolean | Show the score of each suggestion in the code suggestion list
 <!--rehype:className=wrap-text -->
 
-END... ENJOY YOURSELF
-----
-
-> Welcome everyone to add new content
 
 Reference
 ----
