@@ -8,6 +8,7 @@ You'll find some resources to get started with Microsoft Cloud-Native technologi
 - [Azure Serverless](./serverless.md)
 - [Azure DevOps and Github](./devops.md)
 - [Azure OpenAI](./aoai.md)
+- [GitHub Copilot Cheat Sheet](./github-copilot-cheat-sheet.md)
 
 ## Cloud-Native Overview
 
