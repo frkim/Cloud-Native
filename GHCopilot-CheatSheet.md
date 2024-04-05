@@ -1,11 +1,9 @@
-GitHub Copilot Cheat Sheet
-===
+# GitHub Copilot Cheat Sheet
+
 This is a quick reference guide to get started with [GitHub Copilot](https://code.visualstudio.com/docs/editor/github-copilot).  
 This page is a fork from: [jaywcj](https://github.com/jaywcjlove/reference/blob/main/docs/github-copilot.md)
 
-1.Preparation
-
-----
+## Preparation
 
 ### 1. Account Registration
 
@@ -17,7 +15,6 @@ GitHub Account | [Registration Link](https://github.com/signup)
 Subscribe to GitHub Copilot | [Subscription Link](https://github.com/features/copilot)
 
 ### 2. Install Vscode Extension
-<!--rehype:wrap-class=col-span-1 row-span-1-->
 
 > Search and install the following extensions in the extension marketplace.
 
@@ -27,13 +24,12 @@ Extension Name | Functionality
 `GitHub Copilot Chat`|Plugin bar for conversing with Copilot
 
 ### 3. Sign in to GitHub Account in Vscode
-<!--rehype:wrap-class=col-span-1 row-span-1-->
 
 - After installation, click on the `GitHub Copilot` plugin icon in the bottom right corner and click `Sign in to GitHub` to log in.
 - Alternatively, click on the `Accounts` icon in the toolbar and click `Sign in with GitHub to use GitHub Copilot` to log in.
 
 ### 4. Copilot Subscription Plans
-<!--rehype:wrap-class=col-span-2 row-span-1-->
+
 Plan | Price | Features
 :-|-|-
 Copilot Individual | $10/person/month <br> (Free for students, teachers, and open-source contributors) | Code completion, Chatbot
@@ -42,7 +38,7 @@ Copilot Enterprise| $39/person/month | Business features + Personalized chat for
 <!--rehype:className=show-header left-align-->
 
 ### 5. Copilot Usage Entry Points
-<!--rehype:wrap-class=col-span-1 row-span-1-->
+
 |Name | Description |
 |-|-|
 Inline Suggestions| Show suggestions next to the cursor in the editor
@@ -53,21 +49,16 @@ Slide Chat| Open a conversation interface in the sidebar of the editor
 Quick Chat| Invoke the conversation interface at the top
 
 
-2.Tips for Suggestions
-----
+## Tips for Suggestions
 
 ### The Art of Suggestions
-<!--rehype:wrap-class=col-span-1 row-span-1-->
 
 > The relationship between you and `copilot` is like that of a writer and an illustrator.  
 > You need to describe your story (i.e., `context`) as comprehensively, concisely, and clearly as possible.  
 > `Copilot` will then generate beautiful illustrations (i.e., `code`) based on your story.  
 
-### Tips for Suggestions
-<!--rehype:wrap-class=col-span-1 row-span-1-->
-
-- 1⃣️ Provide context information
-- 2⃣️ Context can be predicted
+- Provide context information
+- Context can be predicted
 
 ### Practical Tutorials
 
@@ -76,7 +67,6 @@ Quick Chat| Invoke the conversation interface at the top
 - [How I used GitHub Copilot to build a browser extension](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
 
 ### Types of Context Information
-<!--rehype:wrap-class=col-span-2 row-span-1-->
 
 Type|Description
 -|-
@@ -89,8 +79,6 @@ Code|Copilot will analyze your code and the surrounding code to generate helpful
 ### Context: File
 
 > Copilot will analyze the currently open file and adjacent files in the editor to provide appropriate suggestions based on the context.
-
----
 
 > - 1. Avoid opening too many files so that Copilot can better understand your code.
 > - 2. Open files that are relevant and have common characteristics.
@@ -128,8 +116,6 @@ Add comments above the function
 def ...
 ```
 
----
-
 Add comments to the code
 
 ```python
@@ -141,7 +127,7 @@ api_sever = FastApi(...)
 ```
 
 ### Context: Comment: Docstring
-<!--rehype:wrap-class=col-span-1 row-span-2-->
+
 Sometimes, when you already have a detailed design document but haven't written the functional code, you can directly use the description in the docstring to let Copilot generate the code.
 
 ```python
@@ -278,16 +264,13 @@ dailogs = [
 ...
 ```
 
-3.Shortcuts
-----
-<!--rehype:body-class=cols-2-->
+## Shortcuts
 
 For Mac users, it is recommended to modify shortcuts related to the alt key, as the alt key with letters on Mac may be used by the input method. If you have customized the input method `keylayout`, ignore this sentence.
 
 In addition, for commands without shortcuts, you can invoke the `Command Palette` and execute them by entering the query keyword after filtering.
 
 ### Github Copilot
-<!--rehype:wrap-class=col-span-2 row-span-1-->
 
 #### Copilot Inline Suggestions related commands
 
@@ -324,7 +307,6 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 <!--rehype:className=show-header wrap-text left-align-->
 
 ### Github Copilot Chat
-<!--rehype:wrap-class=col-span-2 row-span-1-->
 
 #### Copilot Chat Chat related commands
 
@@ -371,13 +353,11 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 `github.copilot.ghpr.applySuggestion`| Provide code suggestions for Github Pull Request |-|-
 <!--rehype:className=show-header wrap-text left-align-->
 
-4.Slash Commands tips in Copilot Chat
-----
+## Slash Commands tips in Copilot Chat
 
 > In the chat dialog, you can interact with Copilot Chat using commands starting with `/`.
 
 ### Slash Commands Example
-<!--rehype:wrap-class=col-span-1 row-span-1-->
 
 #### Slash Commands consist of four parts
 
@@ -393,11 +373,9 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 ```
 /explain def helloworld():...
 
-@vscode /api 请解释 inlineChat.start 的作用
+@vscode /api explain inlineChat.start
 
 @workspace /explain def helloworld():...
-
-在每一行代码末尾添加注释进行解释
 ```
 
 #### Agent
@@ -408,9 +386,6 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 @workspace|Project workspace related questions
 
 ### Inline Chat Slash Commands
-<!--rehype:wrap-class=col-span-1 row-span-1-->
-
----
 
 > Trigger `inline chat` using the command `inlineChat.start` and then use
 
@@ -421,7 +396,6 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 /fix         |Fix the selected code
 /tests       |Generate unit tests for the selected code
 
----
 
 > Trigger using the command `github.copilot.interactiveEditor.generate`
 
@@ -429,7 +403,6 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 |-           |:-|
 /generate    |Generate here, this command cannot be entered by the user
 
----
 
 > Alternatively, you can directly select the area and then enter the command in the inline chat to perform the command operation on the selected area.
 
@@ -474,8 +447,7 @@ In addition, for commands without shortcuts, you can invoke the `Command Palette
 - Quick Chat and Chat have the same Slash Commands
 - Editor Chat and Chat have the same Slash Commands
 
-5.Parameter Settings
-----
+## Parameter Settings
 
 Open the VS Code command palette and enter `Preferences: Open Settings` to open the configuration file. Configure the relevant parameters in file mode.
 
@@ -579,14 +551,13 @@ You can find the complete parameter description in the `package.json` files of t
 <!--rehype:className=wrap-text -->
 
 
-Reference
-----
+## References
 
-\[1\]: [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/editor/github-copilot)  
-\[2\]: [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)  
-\[3\]: [GitHub Copilot Official Website](https://github.com/features/copilot)  
-\[4\]: [GitHub Copilot Series (Youtube)](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt)  
-\[5\]: [Pragmatic techniques to get the most out of GitHub Copilot  (Youtube)](https://www.youtube.com/watch?v=CwAzIpc4AnA)  
-\[6\]: [How I used GitHub Copilot to build a browser extension](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension)  
-\[7\]: [Visual Studio Code, Where are extensions installed?](https://code.visualstudio.com/docs/editor/extension-marketplace#_where-are-extensions-installed)  
-\[8\]: [Visual Studio Code, Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers)  
+ - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/editor/github-copilot)
+ - [GitHub Copilot Official Website](https://github.com/features/copilot)  
+ - [GitHub Copilot in VSCode: Explaining the Basics](https://github.com/frkim/Microsoft-Cloud-Native/assets/74252080/4b7d8fcd-51b0-437b-8489-12109b4acb04)
+ - [Getting started with GitHub Copilot in Visual Studio 2022 - Install & Login](https://github.com/frkim/Microsoft-Cloud-Native/assets/74252080/5971464e-c446-4dcf-b93f-24669bf25d32)
+ - [GitHub Copilot Series (Youtube)](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt)  
+ - [Pragmatic techniques to get the most out of GitHub Copilot  (Youtube)](https://www.youtube.com/watch?v=CwAzIpc4AnA) 
+ - [Visual Studio Code, Language Identifiers](https://code.visualstudio.com/docs/languages/identifiers)  
+ - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)  
