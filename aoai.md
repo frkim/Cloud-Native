@@ -58,7 +58,7 @@ First, I strongly recommand to start with this introduction post: [How to create
 
 ## Tutorial, Walkthrough
 
-- [Generative AI - 18 Lessons, Get Started Building with Generative AI](https://github.com/microsoft/generative-ai-for-beginners)
+- [Generative AI - 18 Lessons, Get Started Building with Generative AI](https://microsoft.github.io/generative-ai-for-beginners)
 - [Introduction to Azure OpenAI Service - 1hr3min](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?ns-enrollment-type=Collection&ns-enrollment-id=4oefo3dozy48y)
 - [Develop Generative AI solutions with Azure OpenAI Service - 5hr34min](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Azure Open AI Blueprint – Navigating from MVP to Enterprise Environments](https://www.floriankitterer.com/post/your-azure-openai-blueprint-navigating-from-mvp-to-enterprise-environments)
