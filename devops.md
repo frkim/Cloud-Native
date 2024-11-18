@@ -116,6 +116,7 @@ This sections lists a lot of links to start with **[Azure DevOps](https://azure.
 - [Empowering developers to build secure software faster with GitHub Advanced Security](https://resources.github.com/security/secure-software-faster-ebook/)
 - [How static application security testing (SAST) can help you fix bugs at the speed of development?](https://resources.github.com/security/sast/?submitted=true)
 - [Azure DevOps Explained (published by Packt)](https://github.com/PacktPublishing/Learning-Azure-DevOps---B16392)
+- [GitHub Copilot Tips and Tricks v2](./media/GitHub_Copilot_TipsTricks_v2.pdf)
 
 ## Migration Tools
 
